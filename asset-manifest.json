@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crema_theme/static/css/main.bf794b64.css",
-    "main.js": "/crema_theme/static/js/main.3736e837.js",
+    "main.js": "/crema_theme/static/js/main.f697c781.js",
     "static/js/76.de5665ad.chunk.js": "/crema_theme/static/js/76.de5665ad.chunk.js",
     "static/js/393.1c48b336.chunk.js": "/crema_theme/static/js/393.1c48b336.chunk.js",
     "static/js/697.6fb81560.chunk.js": "/crema_theme/static/js/697.6fb81560.chunk.js",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.bf794b64.css",
-    "static/js/main.3736e837.js"
+    "static/js/main.f697c781.js"
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/crema_theme/static/css/main.bf794b64.css",
+    "main.js": "/crema_theme/static/js/main.3736e837.js",
+    "static/js/76.de5665ad.chunk.js": "/crema_theme/static/js/76.de5665ad.chunk.js",
+    "static/js/393.1c48b336.chunk.js": "/crema_theme/static/js/393.1c48b336.chunk.js",
+    "static/js/697.6fb81560.chunk.js": "/crema_theme/static/js/697.6fb81560.chunk.js",
+    "static/js/217.7a60136e.chunk.js": "/crema_theme/static/js/217.7a60136e.chunk.js",
+    "static/js/269.2a4f0bf5.chunk.js": "/crema_theme/static/js/269.2a4f0bf5.chunk.js",
+    "static/js/637.1285f85e.chunk.js": "/crema_theme/static/js/637.1285f85e.chunk.js",
+    "static/js/210.5ed4559c.chunk.js": "/crema_theme/static/js/210.5ed4559c.chunk.js",
+    "static/js/909.55f1e5de.chunk.js": "/crema_theme/static/js/909.55f1e5de.chunk.js",
+    "static/js/224.6cac574f.chunk.js": "/crema_theme/static/js/224.6cac574f.chunk.js",
+    "static/js/144.9694d1eb.chunk.js": "/crema_theme/static/js/144.9694d1eb.chunk.js",
+    "static/js/791.39d178ef.chunk.js": "/crema_theme/static/js/791.39d178ef.chunk.js",
+    "static/js/752.87763d66.chunk.js": "/crema_theme/static/js/752.87763d66.chunk.js",
+    "static/js/810.ec008766.chunk.js": "/crema_theme/static/js/810.ec008766.chunk.js",
+    "static/js/795.1fe31dc7.chunk.js": "/crema_theme/static/js/795.1fe31dc7.chunk.js",
+    "static/js/27.e50f0314.chunk.js": "/crema_theme/static/js/27.e50f0314.chunk.js",
+    "static/js/202.84fa6300.chunk.js": "/crema_theme/static/js/202.84fa6300.chunk.js",
+    "static/js/30.9b6af4ad.chunk.js": "/crema_theme/static/js/30.9b6af4ad.chunk.js",
+    "static/js/717.f7b62069.chunk.js": "/crema_theme/static/js/717.f7b62069.chunk.js",
+    "static/js/276.71636287.chunk.js": "/crema_theme/static/js/276.71636287.chunk.js",
+    "static/js/231.d2bca6c4.chunk.js": "/crema_theme/static/js/231.d2bca6c4.chunk.js",
+    "static/js/451.cb43f70a.chunk.js": "/crema_theme/static/js/451.cb43f70a.chunk.js",
+    "static/media/comingsoon.svg": "/crema_theme/static/media/comingsoon.9c0bc90bcaf109ecbc516117ecb195d6.svg",
+    "static/media/maintenance.svg": "/crema_theme/static/media/maintenance.4f25241eed45fb2ab0189c2b166eda3a.svg",
+    "static/media/503.svg": "/crema_theme/static/media/503.11c66d891747a3d1588c8860484f71d9.svg",
+    "static/media/500.svg": "/crema_theme/static/media/500.4cb5ddae346dd46b5c76fbee47c16369.svg",
+    "static/media/something-wrong.svg": "/crema_theme/static/media/something-wrong.4d493792d98c776942d7b7b42e982048.svg",
+    "static/media/404.svg": "/crema_theme/static/media/404.779225c280c57e8d67e4e7b4c212e070.svg",
+    "static/media/403.svg": "/crema_theme/static/media/403.f730a135fa1cdb32b2431175a8306f5b.svg",
+    "static/media/401.svg": "/crema_theme/static/media/401.12364307669fb6d784faaf7243490607.svg",
+    "index.html": "/crema_theme/index.html",
+    "static/media/logo_text.svg": "/crema_theme/static/media/logo_text.dd82378a8ad3b7c6ccc5832f46e2b301.svg",
+    "static/media/logo.svg": "/crema_theme/static/media/logo.0c6286fb3a337c6f53bbb862d0892d81.svg"
+  },
+  "entrypoints": [
+    "static/css/main.bf794b64.css",
+    "static/js/main.3736e837.js"
+  ]
+}

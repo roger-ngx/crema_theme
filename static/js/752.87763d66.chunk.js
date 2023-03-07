@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcra_ts_5=self.webpackChunkcra_ts_5||[]).push([[752],{44752:function(e,r,s){s.r(r);s(47313);var a=s(57829),c=s(46417);r.default=function(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)("h2",{children:"Sample page 1"}),(0,c.jsx)(a.Z,{sx:{my:2},children:"You can kick start your app"})]})}}}]);

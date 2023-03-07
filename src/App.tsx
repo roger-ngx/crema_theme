@@ -9,7 +9,7 @@ import AppLocaleProvider from "@crema/utility/AppLocaleProvider";
 import AppLayout from "@crema/core/AppLayout";
 import configureStore from "redux/store";
 import FirebaseAuthProvider from "./@crema/services/auth/firebase/FirebaseAuthProvider";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 const store = configureStore();
 
@@ -19,14 +19,14 @@ const App = () => (
       <AppThemeProvider>
         <AppStyleProvider>
           <AppLocaleProvider>
-            <BrowserRouter>
+            <HashRouter>
               <FirebaseAuthProvider>
                 <AuthRoutes>
                   <CssBaseline />
                   <AppLayout />
                 </AuthRoutes>
               </FirebaseAuthProvider>
-            </BrowserRouter>
+            </HashRouter>
           </AppLocaleProvider>
         </AppStyleProvider>
       </AppThemeProvider>
